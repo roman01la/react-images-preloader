@@ -1,0 +1,12 @@
+{
+  "name": "react-images-preloader",
+  "version": "1.0.0",
+  "description": "HOC to preload images before rendering",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "preload"
+  ],
+  "author": "Roman Liutikov <roman01la@romanliutikov.com>",
+  "license": "MIT"
+}
